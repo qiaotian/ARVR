@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  22 OCT 2016 02:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  22 OCT 2016 02:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,29 +333,9 @@ File: ./figs/device-sumsung-gear-vr.jpeg Graphic file (type jpg)
 Package pdftex.def Info: ./figs/device-sumsung-gear-vr.jpeg used on input line 
 159.
 (pdftex.def)             Requested size: 85.35826pt x 85.3513pt.
-
-Overfull \hbox (2.98416pt too wide) in paragraph at lines 177--177
-[]|\OT1/cmr/m/n/12 Enviroment| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[]|\OT1/cmr/m/n/12 Demonstrations, Ar-
- []
-
-
-Overfull \hbox (3.86331pt too wide) in paragraph at lines 181--181
-[]|\OT1/cmr/m/n/12 Interactions| 
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 181--181
-[]|\OT1/cmr/m/n/12 Move, Ro-tate, Scale and
- []
-
-[2 <./figs/device-oculus.jpg> <./figs/device-sony-vr.png> <./figs/device-htc-vi
-ve-large.png> <./figs/device-sumsung-gear-vr.jpeg>]
-<./figs/device-hololens.jpg, id=22, 796.9775pt x 796.9775pt>
+ [2 <./figs/device-oculus.jpg> <./figs/device-sony-vr.png> <./figs/device-htc-v
+ive-large.png> <./figs/device-sumsung-gear-vr.jpeg>] <./figs/device-hololens.jp
+g, id=22, 796.9775pt x 796.9775pt>
 File: ./figs/device-hololens.jpg Graphic file (type jpg)
 
 <use ./figs/device-hololens.jpg>
@@ -376,9 +356,8 @@ File: ./figs/device-magic-leap.jpg Graphic file (type jpg)
 <use ./figs/device-magic-leap.jpg>
 Package pdftex.def Info: ./figs/device-magic-leap.jpg used on input line 206.
 (pdftex.def)             Requested size: 113.81102pt x 113.80937pt.
- [3 <./figs/device-hololens.jpg> <./figs/device-google-glass.png> <./figs/devic
-e-magic-leap.jpg>]
-<./figs/device-first-hmd.png, id=29, 644.4075pt x 270.00874pt>
+
+<./figs/device-first-hmd.png, id=25, 644.4075pt x 270.00874pt>
 File: ./figs/device-first-hmd.png Graphic file (type png)
 
 <use ./figs/device-first-hmd.png>
@@ -386,7 +365,8 @@ Package pdftex.def Info: ./figs/device-first-hmd.png used on input line 223.
 (pdftex.def)             Requested size: 341.43306pt x 143.06686pt.
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
- [4 <./figs/device-first-hmd.png>]
+ [3 <./figs/device-hololens.jpg> <./figs/device-google-glass.png> <./figs/devic
+e-magic-leap.jpg>] [4 <./figs/device-first-hmd.png>]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
@@ -472,42 +452,42 @@ File: ./figs/2025_software_estimate_by_vr_and_ar.png Graphic file (type png)
 Package pdftex.def Info: ./figs/2025_software_estimate_by_vr_and_ar.png used on
  input line 327.
 (pdftex.def)             Requested size: 170.71652pt x 128.03845pt.
- [6] [7 <./figs/application-training.jpg> <./figs/application-gaming.jpg> <./fi
-gs/application-medical.jpg> <./figs/application-manufacturing.jpg> <./figs/appl
-ication-tourism.jpg> <./figs/application-collaboration.jpg> <./figs/application
--design.jpg> <./figs/application-navigation.jpg> <./figs/2025_estimate_by_use_c
+ [6 <./figs/application-training.jpg> <./figs/application-gaming.jpg> <./figs/a
+pplication-medical.jpg> <./figs/application-manufacturing.jpg> <./figs/applicat
+ion-tourism.jpg> <./figs/application-collaboration.jpg> <./figs/application-des
+ign.jpg> <./figs/application-navigation.jpg>] [7 <./figs/2025_estimate_by_use_c
 ases.png> <./figs/2025_software_estimate_by_vr_and_ar.png>] [8] (./elsarticle-t
-emplate-num.bbl [9]
+emplate-num.bbl
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-
-[10]) [11] (./elsarticle-template-num.aux)
+ [9])
+[10] (./elsarticle-template-num.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3501 strings out of 493033
- 50036 string characters out of 6134139
- 111390 words of memory out of 5000000
- 6935 multiletter control sequences out of 15000+600000
+ 3498 strings out of 493033
+ 49985 string characters out of 6134139
+ 109382 words of memory out of 5000000
+ 6932 multiletter control sequences out of 15000+600000
  10274 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,30p,1536b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,30p,1536b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on elsarticle-template-num.pdf (11 pages, 10284320 bytes).
+Output written on elsarticle-template-num.pdf (10 pages, 10283480 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
