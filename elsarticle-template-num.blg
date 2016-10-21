@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: elsarticle-template-num.aux
+The style file: elsarticle-num.bst
+Database file #1: elsarticle-template-num.bib
+Warning--empty journal in schepercenter
+You've used 13 entries,
+            2937 wiz_defined-function locations,
+            746 strings with 7992 characters,
+and the built_in function-call counts, 4619 in all, are:
+= -- 423
+> -- 154
+< -- 7
++ -- 60
+- -- 47
+* -- 302
+:= -- 604
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 166
+empty$ -- 520
+format.name$ -- 58
+if$ -- 1199
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 47
+num.names$ -- 13
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 288
+swap$ -- 55
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 41
+width$ -- 15
+write$ -- 114
+(There was 1 warning)

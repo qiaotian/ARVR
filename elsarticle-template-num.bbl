@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{mistry2009sixthsense}
+P.~Mistry, P.~Maes, Sixthsense: a wearable gestural interface, in: ACM SIGGRAPH
+  ASIA 2009 Sketches, ACM, 2009, p.~11.
+
+\bibitem{jebara1997stochasticks}
+T.~Jebara, C.~Eyster, J.~Weaver, T.~Starner, A.~Pentland, Stochasticks:
+  Augmenting the billiards experience with probabilistic vision and wearable
+  computers, in: Wearable Computers, 1997. Digest of Papers., First
+  International Symposium on, IEEE, 1997, pp. 138--145.
+
+\bibitem{chen2009if}
+B.~X. Chen, If you’re not seeing data, you’re not seeing, Wired Magazine
+  (2009) 26--08.
+
+\bibitem{tamura2001mixed}
+H.~Tamura, H.~Yamamoto, A.~Katayama, Mixed reality: Future dreams seen at the
+  border between real and virtual worlds, IEEE Computer Graphics and
+  Applications 21~(6) (2001) 64--70.
+
+\bibitem{caudell1992augmented}
+T.~P. Caudell, D.~W. Mizell, Augmented reality: An application of heads-up
+  display technology to manual manufacturing processes, in: System Sciences,
+  1992. Proceedings of the Twenty-Fifth Hawaii International Conference on,
+  Vol.~2, IEEE, 1992, pp. 659--669.
+
+\bibitem{schepercenter}
+N.~Scheper-Hughes, Center for latin american studies, uc berkeley.
+
+\bibitem{vlahakis2001archeoguide}
+V.~Vlahakis, J.~Karigiannis, M.~Tsotros, M.~Gounaris, L.~Almeida, D.~Stricker,
+  T.~Gleue, I.~T. Christou, R.~Carlucci, N.~Ioannidis, Archeoguide: first
+  results of an augmented reality, mobile computing system in cultural heritage
+  sites, in: Virtual Reality, Archeology, and Cultural Heritage, 2001, pp.
+  131--140.
+
+\bibitem{hughes2005mixed}
+C.~E. Hughes, C.~B. Stapleton, D.~E. Hughes, E.~M. Smith, Mixed reality in
+  education, entertainment, and training, IEEE computer graphics and
+  applications 25~(6) (2005) 24--30.
+
+\bibitem{kela2006accelerometer}
+J.~Kela, P.~Korpip{\"a}{\"a}, J.~M{\"a}ntyj{\"a}rvi, S.~Kallio, G.~Savino,
+  L.~Jozzo, S.~Di~Marca, Accelerometer-based gesture control for a design
+  environment, Personal and Ubiquitous Computing 10~(5) (2006) 285--299.
+
+\bibitem{kim2009simulated}
+S.~Kim, A.~K. Dey, Simulated augmented reality windshield display as a
+  cognitive mapping aid for elder driver navigation, in: Proceedings of the
+  SIGCHI Conference on Human Factors in Computing Systems, ACM, 2009, pp.
+  133--142.
+
+\bibitem{seungjun2006reliable}
+K.~Seungjun, K.~Hojung, E.~Seongeun, N.~P. Mahalik, A.~Byungha, A reliable new
+  2-stage distributed interactive tgs system based on gis database and
+  augmented reality, IEICE transactions on information and systems 89~(1)
+  (2006) 98--105.
+
+\bibitem{stricker2001augmented}
+D.~Stricker, G.~Klinker, D.~Reiners, Augmented reality for exterior
+  construction applications, Fundamentals of wearable computers and augmented
+  reality (2001) 379--427.
+
+\bibitem{kotranza2008virtual}
+A.~Kotranza, B.~Lok, Virtual human+ tangible interface= mixed reality human an
+  initial exploration with a virtual breast exam patient, in: 2008 IEEE Virtual
+  Reality Conference, IEEE, 2008, pp. 99--106.
+
+\end{thebibliography}

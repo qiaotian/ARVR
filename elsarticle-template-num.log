@@ -1,0 +1,513 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  22 OCT 2016 02:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**elsarticle-template-num
+(./elsarticle-template-num.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+(./elsarticle-template-num.spl)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `elsarticle-template-num.spl'.
+
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen109
+\epsfysize=\dimen110
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen111
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen112
+\subfiglabelskip=\skip50
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks18
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+)
+\everycr=\toks19
+\minrowclearance=\skip55
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count99
+\c@ALG@rem=\count100
+\c@ALG@nested=\count101
+\ALG@tlm=\skip56
+\ALG@thistlm=\skip57
+\c@ALG@Lnr=\count102
+\c@ALG@blocknr=\count103
+\c@ALG@storecount=\count104
+\c@ALG@tmpcounter=\count105
+\ALG@tmplength=\skip58
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count106
+\float@exts=\toks20
+\float@box=\box30
+\@float@everytoks=\toks21
+\@floatcapt=\box31
+)
+\@float@every@algorithm=\toks22
+\c@algorithm=\count107
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+(./elsarticle-template-num.aux
+
+LaTeX Warning: Label `Military' multiply defined.
+
+
+LaTeX Warning: Label `sub@Military' multiply defined.
+
+
+LaTeX Warning: Label `Collaboration' multiply defined.
+
+
+LaTeX Warning: Label `sub@Collaboration' multiply defined.
+
+)
+\openout1 = `elsarticle-template-num.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen116
+\scratchbox=\box32
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen117
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 119.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 119.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./figs/device-oculus.jpg, id=11, 394.47375pt x 394.47375pt>
+File: ./figs/device-oculus.jpg Graphic file (type jpg)
+
+<use ./figs/device-oculus.jpg>
+Package pdftex.def Info: ./figs/device-oculus.jpg used on input line 144.
+(pdftex.def)             Requested size: 85.35826pt x 85.35794pt.
+
+<./figs/device-sony-vr.png, id=12, 465.74pt x 465.74pt>
+File: ./figs/device-sony-vr.png Graphic file (type png)
+
+<use ./figs/device-sony-vr.png>
+Package pdftex.def Info: ./figs/device-sony-vr.png used on input line 149.
+(pdftex.def)             Requested size: 85.35826pt x 85.3575pt.
+
+<./figs/device-htc-vive-large.png, id=14, 903.375pt x 903.375pt>
+File: ./figs/device-htc-vive-large.png Graphic file (type png)
+
+<use ./figs/device-htc-vive-large.png>
+Package pdftex.def Info: ./figs/device-htc-vive-large.png used on input line 15
+4.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+
+<./figs/device-sumsung-gear-vr.jpeg, id=15, 702.625pt x 702.625pt>
+File: ./figs/device-sumsung-gear-vr.jpeg Graphic file (type jpg)
+
+<use ./figs/device-sumsung-gear-vr.jpeg>
+Package pdftex.def Info: ./figs/device-sumsung-gear-vr.jpeg used on input line 
+159.
+(pdftex.def)             Requested size: 85.35826pt x 85.3513pt.
+
+Overfull \hbox (2.98416pt too wide) in paragraph at lines 177--177
+[]|\OT1/cmr/m/n/12 Enviroment| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]|\OT1/cmr/m/n/12 Demonstrations, Ar-
+ []
+
+
+Overfull \hbox (3.86331pt too wide) in paragraph at lines 181--181
+[]|\OT1/cmr/m/n/12 Interactions| 
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 181--181
+[]|\OT1/cmr/m/n/12 Move, Ro-tate, Scale and
+ []
+
+[2 <./figs/device-oculus.jpg> <./figs/device-sony-vr.png> <./figs/device-htc-vi
+ve-large.png> <./figs/device-sumsung-gear-vr.jpeg>]
+<./figs/device-hololens.jpg, id=22, 796.9775pt x 796.9775pt>
+File: ./figs/device-hololens.jpg Graphic file (type jpg)
+
+<use ./figs/device-hololens.jpg>
+Package pdftex.def Info: ./figs/device-hololens.jpg used on input line 196.
+(pdftex.def)             Requested size: 113.81102pt x 113.80153pt.
+
+<./figs/device-google-glass.png, id=23, 803.0pt x 803.0pt>
+File: ./figs/device-google-glass.png Graphic file (type png)
+
+<use ./figs/device-google-glass.png>
+Package pdftex.def Info: ./figs/device-google-glass.png used on input line 201.
+
+(pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
+
+<./figs/device-magic-leap.jpg, id=24, 1128.215pt x 1128.215pt>
+File: ./figs/device-magic-leap.jpg Graphic file (type jpg)
+
+<use ./figs/device-magic-leap.jpg>
+Package pdftex.def Info: ./figs/device-magic-leap.jpg used on input line 206.
+(pdftex.def)             Requested size: 113.81102pt x 113.80937pt.
+ [3 <./figs/device-hololens.jpg> <./figs/device-google-glass.png> <./figs/devic
+e-magic-leap.jpg>]
+<./figs/device-first-hmd.png, id=29, 644.4075pt x 270.00874pt>
+File: ./figs/device-first-hmd.png Graphic file (type png)
+
+<use ./figs/device-first-hmd.png>
+Package pdftex.def Info: ./figs/device-first-hmd.png used on input line 223.
+(pdftex.def)             Requested size: 341.43306pt x 143.06686pt.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+ [4 <./figs/device-first-hmd.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ” in font cmr12!
+ [5]
+<./figs/application-training.jpg, id=37, 1888.05376pt x 1884.03876pt>
+File: ./figs/application-training.jpg Graphic file (type jpg)
+
+<use ./figs/application-training.jpg>
+Package pdftex.def Info: ./figs/application-training.jpg used on input line 282
+.
+(pdftex.def)             Requested size: 85.35826pt x 85.15181pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
+[]\OT1/cmr/m/n/10 (a) Ed-u-ca-tion and
+ []
+
+<./figs/application-gaming.jpg, id=38, 690.58pt x 690.58pt>
+File: ./figs/application-gaming.jpg Graphic file (type jpg)
+
+<use ./figs/application-gaming.jpg>
+Package pdftex.def Info: ./figs/application-gaming.jpg used on input line 286.
+(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+
+<./figs/application-medical.jpg, id=39, 2192.19pt x 2192.19pt>
+File: ./figs/application-medical.jpg Graphic file (type jpg)
+
+<use ./figs/application-medical.jpg>
+Package pdftex.def Info: ./figs/application-medical.jpg used on input line 290.
+
+(pdftex.def)             Requested size: 85.35826pt x 85.33116pt.
+
+<./figs/application-manufacturing.jpg, id=40, 1841.88126pt x 1841.88126pt>
+File: ./figs/application-manufacturing.jpg Graphic file (type jpg)
+
+<use ./figs/application-manufacturing.jpg>
+Package pdftex.def Info: ./figs/application-manufacturing.jpg used on input lin
+e 294.
+(pdftex.def)             Requested size: 85.35826pt x 85.3543pt.
+
+<./figs/application-tourism.jpg, id=41, 811.03pt x 813.0375pt>
+File: ./figs/application-tourism.jpg Graphic file (type jpg)
+
+<use ./figs/application-tourism.jpg>
+Package pdftex.def Info: ./figs/application-tourism.jpg used on input line 298.
+
+(pdftex.def)             Requested size: 85.35826pt x 85.56374pt.
+
+<./figs/application-collaboration.jpg, id=42, 446.66875pt x 446.66875pt>
+File: ./figs/application-collaboration.jpg Graphic file (type jpg)
+
+<use ./figs/application-collaboration.jpg>
+Package pdftex.def Info: ./figs/application-collaboration.jpg used on input lin
+e 302.
+(pdftex.def)             Requested size: 85.35826pt x 85.35866pt.
+
+<./figs/application-design.jpg, id=43, 1951.29pt x 1951.29pt>
+File: ./figs/application-design.jpg Graphic file (type jpg)
+
+<use ./figs/application-design.jpg>
+Package pdftex.def Info: ./figs/application-design.jpg used on input line 306.
+(pdftex.def)             Requested size: 85.35826pt x 85.333pt.
+
+<./figs/application-navigation.jpg, id=44, 441.65pt x 441.65pt>
+File: ./figs/application-navigation.jpg Graphic file (type jpg)
+
+<use ./figs/application-navigation.jpg>
+Package pdftex.def Info: ./figs/application-navigation.jpg used on input line 3
+10.
+(pdftex.def)             Requested size: 85.35826pt x 85.35652pt.
+
+<./figs/2025_estimate_by_use_cases.png, id=45, 401.5pt x 301.125pt>
+File: ./figs/2025_estimate_by_use_cases.png Graphic file (type png)
+
+<use ./figs/2025_estimate_by_use_cases.png>
+Package pdftex.def Info: ./figs/2025_estimate_by_use_cases.png used on input li
+ne 323.
+(pdftex.def)             Requested size: 170.71652pt x 128.03845pt.
+
+<./figs/2025_software_estimate_by_vr_and_ar.png, id=46, 401.5pt x 301.125pt>
+File: ./figs/2025_software_estimate_by_vr_and_ar.png Graphic file (type png)
+
+<use ./figs/2025_software_estimate_by_vr_and_ar.png>
+Package pdftex.def Info: ./figs/2025_software_estimate_by_vr_and_ar.png used on
+ input line 327.
+(pdftex.def)             Requested size: 170.71652pt x 128.03845pt.
+ [6] [7 <./figs/application-training.jpg> <./figs/application-gaming.jpg> <./fi
+gs/application-medical.jpg> <./figs/application-manufacturing.jpg> <./figs/appl
+ication-tourism.jpg> <./figs/application-collaboration.jpg> <./figs/application
+-design.jpg> <./figs/application-navigation.jpg> <./figs/2025_estimate_by_use_c
+ases.png> <./figs/2025_software_estimate_by_vr_and_ar.png>] [8] (./elsarticle-t
+emplate-num.bbl [9]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+[10]) [11] (./elsarticle-template-num.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3501 strings out of 493033
+ 50036 string characters out of 6134139
+ 111390 words of memory out of 5000000
+ 6935 multiletter control sequences out of 15000+600000
+ 10274 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,30p,1536b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on elsarticle-template-num.pdf (11 pages, 10284320 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

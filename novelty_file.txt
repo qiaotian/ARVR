@@ -1,0 +1,3 @@
+The main contribution of this work is listed as follows:
+1. The navigation system, which applies the electromagnetic tracking system instead of optical tracking system to monitor respiratory cycle, improves the usability of the  interventional navigation system.
+2. This work proposes a general method to 1. correlates the respiratory cycle with tumor sites, and 2. predict the tumor sites, which has a significant impact on improving the accuracy of interventional surgery.

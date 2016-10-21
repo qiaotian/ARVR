@@ -1,0 +1,19 @@
+Abstract
+Introduction
+
+Materials and Methods
+|----System Design
+|----Patient Selection
+|----Data Recording
+     |----3D CT/MRI Data Collection
+     |----Respiration Signals Recording
+     |----Ultrasound Image Sequences Recording
+|----Data Analysis
+     |----Select the time to operate
+     |----Predict the site of tumor
+Results
+     |----在每次选择的时机处，超声图像和CT图像都能准确吻合（人评）
+     |----在测试样本中，每一个输入样本的预测值都和实际值接近（机评）
+Discussion
+Conclusion
+Reference
